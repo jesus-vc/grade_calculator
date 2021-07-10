@@ -1,6 +1,6 @@
 # grade_calculator
 
-Created by Jesus Vasquez-Cipriano on 9/19/2021.
+Created by Jesus Vasquez-Cipriano on 9/19/2020.
 Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
 
 **SUMMARY**
